@@ -33,6 +33,9 @@
 - In your browser had to [http://localhost:3000](http://localhost:3000)
 
 
+### Testing the API from the Front-end
+- Clone the front-end repository from [here](https://github.com/rskinnerc/hello-react-front-end) and follow the instructions in the README file
+
 ## Authors
 
 👤 **Ronald Skinner**
