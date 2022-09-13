@@ -43,6 +43,7 @@
 - GitHub: [@rskinnerc](https://github.com/rskinnerc)
 - Twitter: [@XSkinner](https://twitter.com/XSkinner)
 - LinkedIn: [Ronald Skinner Cardenas](https://www.linkedin.com/in/rskinnerc/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
